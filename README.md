@@ -9,4 +9,4 @@ ___
 I used AI prompts to make this project, I don't know if you will accept that.
 ___
 
-I added some of my own creativity to address the missing feature in the image provided in the question repository, the feature being an AC button 9Clear screen button).
+I added some of my own creativity to address the missing feature in the image provided in the question repository, the feature being an AC button (Clear screen button).
